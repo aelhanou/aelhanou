@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aelhanou
+- 👋 Hi, I’m Azzeddine Elhanouni
 - 👀 I'm interested in Computer Science
 - 🌱 I’m currently learning Microservices Architecture
 - 📫 How to reach me https://www.linkedin.com/in/azeddine-elhanouni-18491a199/
